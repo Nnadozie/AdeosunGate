@@ -1,0 +1,45 @@
+/**body{
+  background-color: green;
+}**/
+.square {
+  border: 5px solid #000000de;
+  height: 130px;
+  width: 135px;
+  
+}
+
+.txt {
+  font-size: 28px
+}
+
+.title {
+  color: #000000de;
+  font-size:48px;
+  cursor: pointer;
+}
+
+#stitle {
+  color: #000000de;
+  font-size:30px;
+  cursor: pointer;
+  padding-top:70px;
+  padding-bottom:40px;
+}
+
+
+.padded {
+  margin-top: 25px;
+  margin-bottom: 24px;
+}
+
+.top{
+  padding-top:30px;
+}
+
+#subt {
+  padding-top: 50px;
+}
+
+.below {
+  padding-bottom:30px;
+}
